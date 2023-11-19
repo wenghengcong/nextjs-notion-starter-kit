@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3e6571fec1cb41368d24b0c1a4089239',
+  rootNotionPageId: '0108715afb844cf58bd50e994af988aa',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'wenghengcong',
 
   // open graph metadata (optional)
-  description: '多读书',
+  description: '多读书，不求甚解',
 
   // social usernames (optional)
   twitter: 'wenghengcong',
